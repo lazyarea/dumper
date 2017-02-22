@@ -1,5 +1,5 @@
 <?php
-namespace Dumper\Dumper;
+namespace Lazyarea\Dumper\Dumper;
 
 class Dumper
 {
