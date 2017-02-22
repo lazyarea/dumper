@@ -1,0 +1,8 @@
+{
+    "name": "lazyarea/dumper",
+    "autoload": {
+        "psr-0" : {
+            "Lazyarea\\Dumper" : "src"
+        }
+    }
+}
