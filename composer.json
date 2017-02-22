@@ -1,5 +1,8 @@
 "repositories": [
     {
+        "name": "lazyarea/dumper",
+        "description": "logging data to file",
+        "keywords": ["log","logging","dump","dumper"],
         "type": "package",
         "package": {
             "name": "lazyarea/dumper",
