@@ -4,11 +4,6 @@
     "keywords": ["log","logging","dump","dumper"],
     "license": "Apache-2.0",
     "require": {
-        "php": "^5.3.3 || ^7.0",
-        "another-vendor/package": "1.*"
-    },
-    "repositories": {
-        "type": "vcs",
-        "url": "https://github.com/lazyarea/dumper.git"
+        "php": "^5.3.3 || ^7.0"
     }
 }
