@@ -1,7 +1,7 @@
 <?php
-namespace Dumper;
+namespace Lazyarea\Dumper;
 
-class Dumper
+class Warn
 {
     private $fpath;
     public function __construct((string)$fpath)
