@@ -1,0 +1,10 @@
+{
+    "name": "lazyarea/dumper",
+    "description": "logging data to file",
+    "keywords": ["log","logging","dump","dumper"],
+    "license": "Apache-2.0",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package": "1.*"
+    }
+}
